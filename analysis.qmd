@@ -1,6 +1,6 @@
 ---
 title: "Discrimination"
-author: "David Kane"
+author: "Jacob Hardin-Bernhardt"
 format: html
 execute: 
   echo: false
